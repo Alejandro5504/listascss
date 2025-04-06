@@ -1,0 +1,282 @@
+body {
+
+    background-color: bisque;
+    width: 100%
+}
+
+.fondouno {
+    background-color: rgba(104, 244, 39, 40%);
+    color: rgb(0, 0, 0);
+    font-family: 'Arial';
+    font-size: 4ex;
+    font-style: normal;
+    font-weight: 500;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.fondodos {
+    background-color: bisque;
+    color: rgb(255, 79, 15);
+    font-family: 'Times New Roman';
+    font-style: oblique;
+    font-weight: bolder;
+    text-transform: capitalize;
+    text-align: left;
+    vertical-align: top;
+
+}
+
+.fondotres {
+
+    background-color: blue;
+    color: yellow;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    text-decoration: solid;
+    text-shadow: 0 0 5px #000;
+    text-align: right;
+    vertical-align: bottom;
+
+}
+
+.derecha {
+
+
+    height: 300px;
+    color: brown;
+    font-size: 2.5ex;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-left: 15;
+    text-decoration: underline;
+
+}
+
+.izquierda {
+
+
+
+    height: 300px;
+    color: rgb(255, 79, 15);
+    font-size: 2.5ex;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-decoration: underline;
+
+}
+
+.imagen {
+
+    width: 600px;
+    height: 300px;
+    float: right;
+    margin-left: 50px;
+    ;
+
+}
+
+.imagenc {
+
+    width: 600px;
+    height: 300px;
+    float: left;
+    margin-right: 100px;
+
+}
+
+.imagent {
+
+    width: 600px;
+    height: 300px;
+    float: right;
+    margin-left: 100px;
+    margin-top: 20px;
+
+}
+
+.imagena {
+
+    width: 600px;
+    height: 600px;
+    float: left;
+    margin-right: 100px;
+}
+
+.imagenas {
+
+    width: 700px;
+    height: 500px;
+    float: left;
+    margin-right: 100px;
+
+}
+
+.imageno {
+
+    width: 700px;
+    height: 500 px;
+    float: right;
+    margin-left: 100px;
+
+
+}
+
+.imagename {
+
+    width: 700;
+    height: 500;
+    float: left;
+    margin-right: 100px;
+
+}
+
+
+.titulo1 {
+
+    background-color: rgb(234, 255, 3);
+    color: rgb(255, 79, 15);
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+
+}
+
+.titulo2 {
+
+    background-color: aqua;
+    color: brown;
+    text-align: center;
+    font-style: normal;
+    text-transform: capitalize;
+
+}
+
+.titulo3 {
+
+    background-color: rgb(87, 20, 20);
+    color: white;
+    text-align: center;
+    font-style: normal;
+    text-transform: capitalize;
+
+}
+
+
+.titulo4 {
+
+    background-color: chocolate;
+    color: beige;
+    text-align: center;
+    font-style: normal;
+    text-transform: capitalize;
+
+}
+
+.titulo5 {
+
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-style: normal;
+    text-transform: capitalize;
+
+}
+
+.titulo6 {
+
+    background-color: springgreen;
+    color: rgb(181, 181, 249);
+    text-align: center;
+
+}
+
+.titulo7 {
+
+    background-color: rgb(97, 20, 219);
+    color: #fdfd00;
+    text-align: center;
+
+}
+
+
+
+.OM {
+
+    height: 300px;
+    color: chocolate;
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+
+
+}
+
+
+.AF {
+
+    height: 600px;
+    color: chocolate;
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+
+
+}
+
+.AS {
+
+
+    height: 500px;
+    background-color: crimson;
+    color: whitesmoke;
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+
+
+}
+
+.OC {
+
+    height: 395px;
+    background-color: springgreen;
+    color: rgb(181, 181, 249);
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+
+
+}
+
+.AME {
+
+    height: 1287px;
+    background-color: rgb(97, 20, 219);
+    color: #fdfd00;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+
+.color1 {
+
+    background-color: rgb(212, 254, 0);
+    height: 300px;
+
+}
+
+.color2 {
+
+    background-color: aqua;
+
+}
+
+.color3 {
+
+    background-color: orange;
+
+}
